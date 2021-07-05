@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:dist="http://schemas.android.com/apk/distribution"
-    package="com.demo.toolstracking">
+    package="com.hafidrf.dominictoretto">
 
     <dist:module dist:instant="true" />
 
@@ -12,15 +12,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/MyMaterialTheme">
-        <activity android:name=".feature.splashscreen.SplashActivity">
+        <activity android:name="com.hafidrf.dominictoretto.feature.splashscreen.SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".feature.friendsList.FriendsListActivity" />
-        <activity android:name=".feature.toolsList.ToolsListActivity" />
+        <activity android:name="com.hafidrf.dominictoretto.feature.friendsList.FriendsListActivity" />
+        <activity android:name="com.hafidrf.dominictoretto.feature.toolsList.ToolsListActivity" />
     </application>
 
 </manifest>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:dist="http://schemas.android.com/apk/distribution"
-    package="com.demo.toolstracking"
+    package="com.hafidrf.dominictoretto"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -21,19 +21,19 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/MyMaterialTheme" >
-        <activity android:name="com.demo.toolstracking.feature.splashscreen.SplashActivity" >
+        <activity android:name="com.hafidrf.dominictoretto.feature.splashscreen.SplashActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.demo.toolstracking.feature.friendsList.FriendsListActivity" />
-        <activity android:name="com.demo.toolstracking.feature.toolsList.ToolsListActivity" />
+        <activity android:name="com.hafidrf.dominictoretto.feature.friendsList.FriendsListActivity" />
+        <activity android:name="com.hafidrf.dominictoretto.feature.toolsList.ToolsListActivity" />
 
         <provider
             android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-            android:authorities="com.demo.toolstracking.lifecycle-process"
+            android:authorities="com.hafidrf.dominictoretto.lifecycle-process"
             android:exported="false"
             android:multiprocess="true" />
     </application>

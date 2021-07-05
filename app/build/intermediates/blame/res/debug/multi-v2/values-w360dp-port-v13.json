@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-port-v13/values-w360dp-port-v13.xml",
+            "outputFile": "/Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-port-v13/values-w360dp-port-v13.xml",
             "map": [
                 {
                     "source": "/Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/3e75ba234882fc2f1e152e9836fb4029/material-1.1.0/res/values-w360dp-port-v13/values-w360dp-port-v13.xml",

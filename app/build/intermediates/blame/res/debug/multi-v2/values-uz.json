@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml",
+            "outputFile": "/Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml",
             "map": [
                 {
                     "source": "/Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/95070c30fd96e91edeb96eeffc8b3b2e/appcompat-1.1.0/res/values-uz/values-uz.xml",

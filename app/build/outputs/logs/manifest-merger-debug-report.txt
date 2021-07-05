@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:2:1-26:12
+ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.android.material:material:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/3e75ba234882fc2f1e152e9836fb4029/material-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.airbnb.android:lottie:3.6.1] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/647d0eb24d7579a0a14c279125e2fed7/lottie-3.6.1/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/95070c30fd96e91edeb96eeffc8b3b2e/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
@@ -43,31 +43,31 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hafidrizqifaluthi/.gr
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/2a22850598caf57782b5a8da7208e15f/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/e40f90fa9c428cf3864138aa970163c9/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/c32cb2ac8300885d69cec1ebfe6725f0/rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
-INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:4:5-37
-		INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:4:5-41
+		INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml
-		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:2:1-26:12
-		INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml
 	xmlns:dist
-		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:3:5-61
+		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:3:5-61
 	android:versionCode
-		INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml
-		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:2:1-26:12
-		INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:2:11-69
 dist:module
-ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:6:5-40
+ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:6:5-40
 	dist:instant
-		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:6:18-37
+		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:6:18-37
 application
-ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:8:5-24:19
+ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:8:5-24:19
 MERGED from [com.google.android.material:material:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/3e75ba234882fc2f1e152e9836fb4029/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/3e75ba234882fc2f1e152e9836fb4029/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.airbnb.android:lottie:3.6.1] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/647d0eb24d7579a0a14c279125e2fed7/lottie-3.6.1/AndroidManifest.xml:9:5-20
@@ -89,43 +89,43 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hafi
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/95c3c4cbceff793bc1134680b3eaedc0/core-1.2.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:11:9-41
+		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:11:9-41
 	android:roundIcon
-		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:12:9-54
+		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:10:9-43
+		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:14:9-47
-activity#com.demo.toolstracking.feature.splashscreen.SplashActivity
-ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:15:9-21:20
+		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:14:9-47
+activity#com.hafidrf.dominictoretto.feature.splashscreen.SplashActivity
+ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:15:19-70
+		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:15:19-96
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:16:13-20:29
+ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:17:17-69
+ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:17:25-66
+		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:19:17-77
+ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:19:27-74
-activity#com.demo.toolstracking.feature.friendsList.FriendsListActivity
-ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:22:9-77
+		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.hafidrf.dominictoretto.feature.friendsList.FriendsListActivity
+ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:22:9-103
 	android:name
-		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:22:19-74
-activity#com.demo.toolstracking.feature.toolsList.ToolsListActivity
-ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:23:9-73
+		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:22:19-100
+activity#com.hafidrf.dominictoretto.feature.toolsList.ToolsListActivity
+ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:23:9-99
 	android:name
-		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:23:19-70
+		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml:23:19-96
 uses-sdk
-INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml
-INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/3e75ba234882fc2f1e152e9836fb4029/material-1.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/3e75ba234882fc2f1e152e9836fb4029/material-1.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.airbnb.android:lottie:3.6.1] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/647d0eb24d7579a0a14c279125e2fed7/lottie-3.6.1/AndroidManifest.xml:5:5-7:41
@@ -204,16 +204,16 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hafidrizqifaluthi/
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/e40f90fa9c428cf3864138aa970163c9/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/c32cb2ac8300885d69cec1ebfe6725f0/rxandroid-2.1.1/AndroidManifest.xml:18:5-43
 MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/c32cb2ac8300885d69cec1ebfe6725f0/rxandroid-2.1.1/AndroidManifest.xml:18:5-43
-INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml
-INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml
-		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml
-		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hafidrizqifaluthi/AndroidStudioProjects/DominicTorettoHafid/app/src/main/AndroidManifest.xml
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/0c2b9097d7f5a10709b7d8aa3ce6ad63/lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
 	android:authorities
