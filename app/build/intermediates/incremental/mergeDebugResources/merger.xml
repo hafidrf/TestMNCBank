@@ -5569,7 +5569,6 @@
         <item name="windowNoTitle">true</item>
     </style><style name="AppTextAppearance.Button" parent="TextAppearance.MaterialComponents.Button">
         <item name="android:textAllCaps">false</item>
-        <item name="android:tint">@color/background_color</item>
     </style><style name="MyMaterialTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
         
         <item name="colorPrimary">@color/colorPrimary</item>

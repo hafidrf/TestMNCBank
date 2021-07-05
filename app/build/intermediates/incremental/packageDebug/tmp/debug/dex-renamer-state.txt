@@ -1,4 +1,4 @@
-#Mon Jul 05 14:02:52 WIB 2021
+#Mon Jul 05 14:10:35 WIB 2021
 base.0=/Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
