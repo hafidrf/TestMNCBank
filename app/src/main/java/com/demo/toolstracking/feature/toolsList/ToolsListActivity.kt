@@ -3,6 +3,7 @@ package com.demo.toolstracking.feature.toolsList
 import android.app.Activity
 import android.app.AlertDialog
 import android.content.Intent
+import android.graphics.Color
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProviders
@@ -17,15 +18,18 @@ import com.demo.toolstracking.model.Tool
 import com.demo.toolstracking.util.showToast
 import com.demo.toolstracking.util.visibleIfTrue
 import com.demo.toolstracking.viewModel.ToolsTrackingViewModel
+import com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
 import kotlinx.android.synthetic.main.activity_tools.*
 import kotlinx.android.synthetic.main.app_toolbar.*
 import kotlinx.android.synthetic.main.tools_dialog.view.*
+
 
 class ToolsListActivity : AppCompatActivity() {
 
     private lateinit var toolsTrackingViewModel: ToolsTrackingViewModel
     private var toolsList: List<Tool> = listOf()
     private var toolsListAdapter = ToolsListAdapter()
+    lateinit var mAddFab: ExtendedFloatingActionButton
 
     companion object {
         const val TOOLS = "TOOLS"
@@ -36,6 +40,7 @@ class ToolsListActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_tools)
+        mAddFab = findViewById(R.id.extended_fab);
 
         setToolBar(getString(R.string.tools_list))
         toolsTrackingViewModel = ViewModelProviders.of(this).get(ToolsTrackingViewModel::class.java)
@@ -43,17 +48,23 @@ class ToolsListActivity : AppCompatActivity() {
         saveData()
         getToolsList()
         setToolsListAdapter()
+        setFloating()
+    }
+
+    private fun setFloating(){
+//        mAddFab.shrink()
+        mAddFab.setBackgroundColor(Color.parseColor("#3e66a8"))
+        mAddFab.setTextColor(Color.parseColor("#ffffff"))
+        mAddFab.show()
+        mAddFab.setOnClickListener {
+            val intent = Intent(this, FriendsListActivity::class.java)
+            startActivityForResult(intent, REQUEST_CODE)
+        }
     }
 
     private fun setToolBar(title: String) {
         toolbar.appToolbarTitle(title)
         toolbarNavIcon.visibleIfTrue(false)
-        btnToolbarAction.visibleIfTrue(true)
-        btnToolbarAction.text = getString(R.string.friends)
-        btnToolbarAction.setOnClickListener {
-            val intent = Intent(this, FriendsListActivity::class.java)
-            startActivityForResult(intent, REQUEST_CODE)
-        }
     }
 
     private fun saveData() {

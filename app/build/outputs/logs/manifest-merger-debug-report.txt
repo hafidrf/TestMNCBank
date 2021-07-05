@@ -9,6 +9,7 @@ MERGED from [com.airbnb.android:lottie:3.6.1] /Users/hafidrizqifaluthi/.gradle/c
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/95070c30fd96e91edeb96eeffc8b3b2e/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/5f18831e841485af739ede65120c4a07/core-ktx-1.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/936a2545833b993e1643031508ebb3c0/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/4179e1b7eb56cf645015f6a261d4c611/navigation-runtime-2.3.5/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/f96ac415cefa8919568817612273017d/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/d9ef448b57a55b56cee99f0ee5389637/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/36730c62f81451b15fa7d949e416c002/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -18,26 +19,27 @@ MERGED from [com.jakewharton.rxbinding3:rxbinding:3.1.0] /Users/hafidrizqifaluth
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/11ed031967c586d08874aaa1e7dd9814/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/aaf6b1788b9486cb7b33b04754e4bce1/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/eeb63e5339da0e46e59233b347a5cc1b/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/32cfeea7e4aca3f2575307b1f176ac50/navigation-common-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/f10954057b0af825620f11027ffc6777/fragment-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/167d7f51b35d287150b463fc04522e21/activity-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/5bb2a3105efa1857e5d118689f0de64a/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.transition:transition:1.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/31317b868e96d8bda8f4bd97ebf20aea/transition-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/0d359542e07ba8ae36f6617045742470/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/0354f528fed0b57edd3846766fff5d89/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/f10954057b0af825620f11027ffc6777/fragment-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/3c878bb6d8435ba1fb378b505d8be26a/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/2b73b6f6058274b6eb9742e1b0baf0e7/customview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/1661dd0b8bd0ca37151c99788381f864/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/167d7f51b35d287150b463fc04522e21/activity-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core:1.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/95c3c4cbceff793bc1134680b3eaedc0/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/48928a8bb32bb3782d7c099b7bfde7f2/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/2397f0eb4efc00d0c24aaf990269e7c0/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/5c582cbca2ddb8815627a4ee3ea202c0/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/566feed6b1c33e315714ea95b288ec91/jetified-gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/0c2b9097d7f5a10709b7d8aa3ce6ad63/lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
 MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/3d9986125b16b8d40ba5ed81ee03d249/lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/cb80ac24dff1661a6c3d6dd6e4ac5321/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/c37b8fb4e7f3cb832ac373fcb61f4ddd/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/5f31dc80317b810ebdac474c1599c548/lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/6ca2439985cd2051499916c70c8381a6/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/89ebd9ea3a0b4f37af1f139a94b2b53b/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/5c582cbca2ddb8815627a4ee3ea202c0/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/2397f0eb4efc00d0c24aaf990269e7c0/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/2a22850598caf57782b5a8da7208e15f/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/e40f90fa9c428cf3864138aa970163c9/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/c32cb2ac8300885d69cec1ebfe6725f0/rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
@@ -97,7 +99,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hafi
 	android:allowBackup
 		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:14:9-40
+		ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:14:9-47
 activity#com.demo.toolstracking.feature.splashscreen.SplashActivity
 ADDED from /Users/hafidrizqifaluthi/AndroidStudioProjects/ToolsTrackingSystem/app/src/main/AndroidManifest.xml:15:9-21:20
 	android:name
@@ -134,6 +136,8 @@ MERGED from [androidx.core:core-ktx:1.2.0] /Users/hafidrizqifaluthi/.gradle/cach
 MERGED from [androidx.core:core-ktx:1.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/5f18831e841485af739ede65120c4a07/core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/936a2545833b993e1643031508ebb3c0/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/936a2545833b993e1643031508ebb3c0/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/4179e1b7eb56cf645015f6a261d4c611/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/4179e1b7eb56cf645015f6a261d4c611/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/f96ac415cefa8919568817612273017d/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/f96ac415cefa8919568817612273017d/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/d9ef448b57a55b56cee99f0ee5389637/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -152,6 +156,12 @@ MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/hafidrizqifalu
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/aaf6b1788b9486cb7b33b04754e4bce1/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/eeb63e5339da0e46e59233b347a5cc1b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/eeb63e5339da0e46e59233b347a5cc1b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/32cfeea7e4aca3f2575307b1f176ac50/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/32cfeea7e4aca3f2575307b1f176ac50/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/f10954057b0af825620f11027ffc6777/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/f10954057b0af825620f11027ffc6777/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/167d7f51b35d287150b463fc04522e21/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/167d7f51b35d287150b463fc04522e21/activity-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/5bb2a3105efa1857e5d118689f0de64a/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/5bb2a3105efa1857e5d118689f0de64a/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.transition:transition:1.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/31317b868e96d8bda8f4bd97ebf20aea/transition-1.2.0/AndroidManifest.xml:20:5-22:41
@@ -160,18 +170,20 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hafid
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/0d359542e07ba8ae36f6617045742470/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/0354f528fed0b57edd3846766fff5d89/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/0354f528fed0b57edd3846766fff5d89/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/f10954057b0af825620f11027ffc6777/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/f10954057b0af825620f11027ffc6777/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/3c878bb6d8435ba1fb378b505d8be26a/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/3c878bb6d8435ba1fb378b505d8be26a/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/2b73b6f6058274b6eb9742e1b0baf0e7/customview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/2b73b6f6058274b6eb9742e1b0baf0e7/customview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/1661dd0b8bd0ca37151c99788381f864/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/1661dd0b8bd0ca37151c99788381f864/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/167d7f51b35d287150b463fc04522e21/activity-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/167d7f51b35d287150b463fc04522e21/activity-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/95c3c4cbceff793bc1134680b3eaedc0/core-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/95c3c4cbceff793bc1134680b3eaedc0/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/48928a8bb32bb3782d7c099b7bfde7f2/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/48928a8bb32bb3782d7c099b7bfde7f2/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/2397f0eb4efc00d0c24aaf990269e7c0/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/2397f0eb4efc00d0c24aaf990269e7c0/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/5c582cbca2ddb8815627a4ee3ea202c0/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/5c582cbca2ddb8815627a4ee3ea202c0/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/566feed6b1c33e315714ea95b288ec91/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/566feed6b1c33e315714ea95b288ec91/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/0c2b9097d7f5a10709b7d8aa3ce6ad63/lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
@@ -182,16 +194,10 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hafidrizqifaluth
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/cb80ac24dff1661a6c3d6dd6e4ac5321/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/c37b8fb4e7f3cb832ac373fcb61f4ddd/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/c37b8fb4e7f3cb832ac373fcb61f4ddd/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/5f31dc80317b810ebdac474c1599c548/lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/5f31dc80317b810ebdac474c1599c548/lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/6ca2439985cd2051499916c70c8381a6/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/6ca2439985cd2051499916c70c8381a6/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/89ebd9ea3a0b4f37af1f139a94b2b53b/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/89ebd9ea3a0b4f37af1f139a94b2b53b/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/5c582cbca2ddb8815627a4ee3ea202c0/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/5c582cbca2ddb8815627a4ee3ea202c0/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/2397f0eb4efc00d0c24aaf990269e7c0/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/2397f0eb4efc00d0c24aaf990269e7c0/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/2a22850598caf57782b5a8da7208e15f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/2a22850598caf57782b5a8da7208e15f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hafidrizqifaluthi/.gradle/caches/transforms-2/files-2.1/e40f90fa9c428cf3864138aa970163c9/interpolator-1.0.0/AndroidManifest.xml:20:5-44

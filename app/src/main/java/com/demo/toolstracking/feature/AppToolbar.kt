@@ -33,6 +33,5 @@ fun AppToolbar.appToolbarTitle(title: String?) {
 
 fun AppToolbar.appToolbarActionTitle(title: String?) {
     if (!title.isNullOrEmpty()) {
-        btnToolbarAction.text = title
     }
 }

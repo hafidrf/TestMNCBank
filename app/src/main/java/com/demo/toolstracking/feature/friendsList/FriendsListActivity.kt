@@ -16,6 +16,7 @@ import com.demo.toolstracking.model.Tool
 import com.demo.toolstracking.util.showToast
 import com.demo.toolstracking.util.visibleIfTrue
 import com.demo.toolstracking.viewModel.ToolsTrackingViewModel
+import com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
 import kotlinx.android.synthetic.main.activity_tools.*
 import kotlinx.android.synthetic.main.app_toolbar.*
 import kotlinx.android.synthetic.main.tools_dialog.view.*
@@ -26,21 +27,23 @@ class FriendsListActivity : AppCompatActivity() {
     private var friendsList: List<Friend> = listOf()
     private var friendsListAdapter = FriendsListAdapter()
     private var isDataUpdated = false
+    lateinit var mAddFab: ExtendedFloatingActionButton
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_tools)
+        mAddFab = findViewById(R.id.extended_fab);
 
         setToolBar(getString(R.string.friends))
         toolsTrackingViewModel = ViewModelProviders.of(this).get(ToolsTrackingViewModel::class.java)
 
         getFriendsList()
         setFriendsListAdapter()
+        mAddFab.hide()
     }
 
     private fun setToolBar(title: String) {
         toolbar.appToolbarTitle(title)
-        btnToolbarAction.visibleIfTrue(false)
         toolbarNavIcon.visibleIfTrue(true)
         toolbarNavIcon.setOnClickListener {
             onBackPressed()
